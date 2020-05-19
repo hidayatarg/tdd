@@ -1,0 +1,8 @@
+﻿
+E-ticaret sitemizde:
+
+1- Doğum günü bugün olan müşterilerimize %20 indirim uygulanır.
+
+2- Müşterilerimizden gönderimin nereye olduğuna bakılmaksızın 10TL kargo ücreti tahsil edilir.
+
+3- VIP müşterilerimizden kargo ücreti tahsil edilmez.
